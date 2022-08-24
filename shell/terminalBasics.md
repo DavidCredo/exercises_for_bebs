@@ -6,7 +6,7 @@ schauen wir uns erstmal an, wie man sich effizient durch das System bewegt.
 Dafür brauchen wir **Kommandos**.
 ## Wie sind Kommandos aufgebaut?
 Kommandos bestehen aus dem Kommando selbst, *flags*, wie zB. -a für das Kommando **ls** also => ls -a.
-Manche Kommandos benötigen Argumente wie zB. cd. cd benötigt einen <Pfad> um zu funktionieren.
+Manche Kommandos benötigen Argumente wie zB. cd. cd benötigt einen Pfad um zu funktionieren.
 (Stimmt nicht 100%, aber das ist hier erstmal nicht so wichtig.)
 
 
