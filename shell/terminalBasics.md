@@ -28,6 +28,7 @@ Ein paar sehr nützliche habe ich dir vorenthalten, die sollst du selber finden.
 Einen wichtigen Tipp noch bevor wir uns an die Aufgaben machen!
 **Wenn du mehr über ein Kommando rausfinden willst, oder nicht mehr weißt, wie es funktioniert, gib in der Konsole einfach *man* + das Kommando ein.**
 Also zB. `man cd`. Das bringt dich zur *manual* page des Kommandos.
+Um da wieder rauszukommen, gibst du **q** ein *(quit)*.
 
 ## Aufgaben
 Okay, genug davon. 
